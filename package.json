@@ -1,0 +1,43 @@
+{
+  "name": "tagby-project-msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "DOTENV_CONFIG_PATH=.env.test jest --setupFiles=dotenv/config",
+    "test:coverage": "DOTENV_CONFIG_PATH=.env.test jest --setupFiles=dotenv/config --coverage",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wecode-bootcamp-korea/39-1st-39cm-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wecode-bootcamp-korea/39-1st-39cm-backend/issues"
+  },
+  "homepage": "https://github.com/wecode-bootcamp-korea/39-1st-39cm-backend#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1286.0",
+    "axios": "1.0",
+    "bcrypt": "^5.1.0",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "dbmate": "^1.0.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "node-cron": "^3.0.2",
+    "puppeteer": "^19.4.1",
+    "typeorm": "^0.3.10"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1",
+    "nodemon": "^2.0.20",
+    "supertest": "^6.3.1"
+  }
+}
