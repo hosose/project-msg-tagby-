@@ -28,6 +28,9 @@ BackEnd : 김세호, 김수정
 
 ![MSG](https://user-images.githubusercontent.com/112751572/214303826-ecc9b06e-50c7-43c9-8bb8-fe7349f8c6c3.png)
 
+## 기획
+
+[크롤링_스크린샷_관리체계_v0.1 (1).pptx](https://github.com/hosose/project-msg-tagby-/files/10565730/_._._v0.1.1.pptx)
 
 ## ✏️ 구현기능
 
