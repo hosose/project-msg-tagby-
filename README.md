@@ -39,6 +39,8 @@ BackEnd : 김세호, 김수정
 - Scheduler 기능 구현
 - 이미지 AWS S3 저장 구현
 - Docker 및 AWS EC2 서버 이용
+<img width="1265" alt="image" src="https://user-images.githubusercontent.com/112751572/216814568-a97b1025-f270-47b9-88a9-f08e9f66863d.png">
+
 
 ### 구현 영상
 
