@@ -24,13 +24,11 @@ BackEnd : 김세호, 김수정
 - JavaScript, React, SASS, AWS EC2, S3, Node.js, Docker
 - 협업 툴: Git/GitHub, Trello, Slack, Notion
 
-## ERD
-
-![MSG](https://user-images.githubusercontent.com/112751572/214303826-ecc9b06e-50c7-43c9-8bb8-fe7349f8c6c3.png)
-
-## 기획
+## 기획 및 ERD
 
 [크롤링_스크린샷_관리체계_v0.1 (1).pptx](https://github.com/hosose/project-msg-tagby-/files/10565730/_._._v0.1.1.pptx)
+
+![MSG](https://user-images.githubusercontent.com/112751572/214303826-ecc9b06e-50c7-43c9-8bb8-fe7349f8c6c3.png)
 
 ## ✏️ 구현기능
 
